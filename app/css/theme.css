@@ -1,0 +1,7 @@
+body{
+    background-color: darkgrey;
+}
+
+#content{
+    box-shadow: 0em 0em .5em .25em black;
+}
